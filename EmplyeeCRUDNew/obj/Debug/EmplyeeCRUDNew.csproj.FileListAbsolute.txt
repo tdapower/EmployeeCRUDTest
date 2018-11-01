@@ -1,0 +1,6 @@
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\bin\EmplyeeCRUDNew.dll.config
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\bin\EmplyeeCRUDNew.dll
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\bin\EmplyeeCRUDNew.pdb
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\obj\Debug\EmplyeeCRUDNew.csprojResolveAssemblyReference.cache
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\obj\Debug\EmplyeeCRUDNew.dll
+D:\Development\RND\interview\CRUD with sql server\EmplyeeCRUDNew\EmplyeeCRUDNew\obj\Debug\EmplyeeCRUDNew.pdb
